@@ -38,7 +38,6 @@ src/
  - PlayersList.js: Component to display a list of players.
    
 
-
 ## Dependencies
 - React v18.1
 - React Bootstrap v2.9.2
