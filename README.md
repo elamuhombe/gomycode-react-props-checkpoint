@@ -3,21 +3,21 @@
 This React application is created as part of the Gomycode React Props Checkpoint. It demonstrates the usage of React components and props.
 
 ## Installation
-# 1. Clone the Repository:
+### 1. Clone the Repository:
 git clone https://github.com/elamuhombe/gomycode-react-props-checkpoint.git
 cd gomycode-react-props-checkpoint
 
-# 2. Open the Project in Your Code Editor:
+### 2. Open the Project in Your Code Editor:
  Use your favorite code editor, e.g., Visual Studio Code
 code .
 
-# 3. Install Dependencies:
+### 3. Install Dependencies:
 npm install
 
-# 4. Install React Bootstrap:
+### 4. Install React Bootstrap:
 npm install react-bootstrap
 
-# 5. Start the Application:
+### 5. Start the Application:
 npm start
 
 ## Project Structure
