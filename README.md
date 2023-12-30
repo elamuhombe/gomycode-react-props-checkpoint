@@ -8,7 +8,7 @@ git clone https://github.com/elamuhombe/gomycode-react-props-checkpoint.git
 cd gomycode-react-props-checkpoint
 
 # 2. Open the Project in Your Code Editor:
-# Use your favorite code editor, e.g., Visual Studio Code
+ Use your favorite code editor, e.g., Visual Studio Code
 code .
 
 # 3. Install Dependencies:
