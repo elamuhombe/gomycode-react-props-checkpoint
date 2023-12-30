@@ -33,7 +33,8 @@ src/
  - players.js: Array of JSON objects containing player details.
  - styles.css Contains css stylesheets
   <br>
- src/Components/ 
+ src/Components/
+<br>
  - Player.js: Component to display player details using props.
  - PlayersList.js: Component to display a list of players.
    
