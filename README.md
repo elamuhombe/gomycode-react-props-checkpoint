@@ -20,19 +20,14 @@ npm install react-bootstrap
 ### 5. Start the Application:
 npm start
 
-## Project Structure
-src/: Contains the source code for the React application.
-App.js: The root component of the application.
-Player.js: Component to display player details using props.
-PlayersList.js: Component to display a list of players.
-players.js: Array of JSON objects containing player details.
-Player Attributes
-Name: Player's full name.
-Team: Current football team.
-Nationality: Player's nationality.
-Jersey Number: Player's jersey number.
-Age: Player's age.
-Image URL: URL of the player's image.
+## Project Files
+Players photos stored inside public folder
+![public1](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/628520ed-23aa-4e94-8cdc-1168f132c88b)
+
+Source files stored in src folder
+![project-structure](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/9809341a-ade0-4a5c-b635-96575ddcb19b)
+
+
 
 ## Dependencies
 - React v18.1
