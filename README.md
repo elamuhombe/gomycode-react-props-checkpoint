@@ -28,11 +28,11 @@ Source files stored in src folder
 <br>
 ![src-photo (1)](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/e9bc49cb-1a42-4c43-aac5-9a52489ca3fa)
 <br>
-- src/
+src/
  - App.js: The root component of the application.
  - players.js: Array of JSON objects containing player details.
  - styles.css Contains css stylesheets 
-- src/Components/: Contains the source code for the React components.
+ src/Components/ Contains the source code for the React components.
  - Player.js: Component to display player details using props.
  - PlayersList.js: Component to display a list of players.
    
