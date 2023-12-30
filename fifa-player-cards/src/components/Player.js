@@ -1,8 +1,7 @@
-// Player.js
-
-// Import React and the Card component from react-bootstrap
+// src/Player.js
 import React from "react";
 import { Card } from "react-bootstrap";
+import PropTypes from "prop-types"; // Import PropTypes for prop type checking
 
 // Import the external stylesheet for additional styles
 import "../styles.css";
@@ -11,7 +10,14 @@ import "../styles.css";
 import "roboto-npm-webfont";
 
 // Player component functional definition
-const Player = ({ name, team, nationality, jerseyNumber, age, imageUrl }) => {
+const Player = ({
+  name = "Unknown",
+  team = "Unknown",
+  nationality = "Unknown",
+  jerseyNumber = "Unknown",
+  age = "Unknown",
+  imageUrl = "https://example.com/unknown.jpg",
+}) => {
   return (
     <div className="player">
       {/* Card component to display player details */}
@@ -49,6 +55,16 @@ const Player = ({ name, team, nationality, jerseyNumber, age, imageUrl }) => {
       </Card>
     </div>
   );
+};
+
+// Define propTypes for prop type checking
+Player.propTypes = {
+  name: PropTypes.string,
+  team: PropTypes.string,
+  nationality: PropTypes.string,
+  jerseyNumber: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
+  age: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
+  imageUrl: PropTypes.string,
 };
 
 // Export the Player component for use in other parts of the application
