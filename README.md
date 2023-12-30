@@ -31,7 +31,8 @@ Source files stored in src folder
 src/
  - App.js: The root component of the application.
  - players.js: Array of JSON objects containing player details.
- - styles.css Contains css stylesheets 
+ - styles.css Contains css stylesheets
+  <br>
  src/Components/ Contains the source code for the React components.
  - Player.js: Component to display player details using props.
  - PlayersList.js: Component to display a list of players.
