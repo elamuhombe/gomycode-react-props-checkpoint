@@ -25,7 +25,8 @@ Players photos stored inside public folder
 ![public1](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/628520ed-23aa-4e94-8cdc-1168f132c88b)
 
 Source files stored in src folder
-![source1](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/d64d3d24-1fc3-428a-95f1-087107fa733e)
+![src-photo (1)](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/e9bc49cb-1a42-4c43-aac5-9a52489ca3fa)
+
 
 
 
