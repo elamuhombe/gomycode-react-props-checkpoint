@@ -23,7 +23,7 @@ cd gomycode-react-props-checkpoint
 
 
 
-### Project Structure
+##Project Structure
 src/: Contains the source code for the React application.
 App.js: The root component of the application.
 Player.js: Component to display player details using props.
@@ -37,13 +37,13 @@ Jersey Number: Player's jersey number.
 Age: Player's age.
 Image URL: URL of the player's image.
 
-###Dependencies
+##Dependencies
 - React v18.1
 - React Bootstrap v2.9.2
 
-### Author
+##Author
 This project is created by Elaine Muhombe
 
-###Acknlowledgments
+##Acknlowledgments
 - React https://react.dev/
 - React Bootstrap https://react-bootstrap.netlify.app/
