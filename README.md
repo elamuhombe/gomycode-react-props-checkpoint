@@ -12,13 +12,13 @@ cd gomycode-react-props-checkpoint
 
 2. Open the project with your favourite code editor like Visual Studion code.
 
-3. Install dependencies <br>
+3. Install dependencies <br/>
 ![dep (1)](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/d18ac819-9f8d-459e-b15a-1da7e588f8aa)
 
-4. Intsall React Bootrap <br>
+4. Intsall React Bootrap <br/>
 ![install-bootsrap](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/50d151f9-1ed0-4f07-8361-5b6430fd060b)
 
-5. Start the application <br>
+5. Start the application <br/>
 ![start](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/ea3f24e2-f265-48c7-ac84-f9417b081cab)
 
 
