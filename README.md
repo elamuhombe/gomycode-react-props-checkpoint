@@ -35,7 +35,7 @@ src/
   <br>
  src/Components/
 <br>
- - Player.js: Component to display player details using props.
+   - Player.js: Component to display player details using props.
  - PlayersList.js: Component to display a list of players.
    
 
