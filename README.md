@@ -1,6 +1,6 @@
 # Gomycode React Props Checkpoint
 
-This React application is created as part of the Gomycode React Props Checkpoint. It demonstrates the usage of React components and props.
+This React application is created as part of the Gomycode React Props Checkpoint. It demonstrates the usage of React components and props by creating cards for Fifa players.
 
 ## Installation
 ### 1. Clone the Repository:
