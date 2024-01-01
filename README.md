@@ -36,6 +36,10 @@ src/
  src/Components/
  - Player.js: Component to display player details using props.
  - PlayersList.js: Component to display a list of players.
+
+## Screenshot
+![fifa](https://github.com/elamuhombe/gomycode-react-props-checkpoint/assets/10416177/30925eba-a84e-45a2-8d09-2d60c2edc16f)
+
    
 
 ## Dependencies
