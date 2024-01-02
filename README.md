@@ -1,6 +1,6 @@
 # Gomycode React Props Checkpoint
 
-This React application is created as part of the Gomycode React Props Checkpoint. It demonstrates the usage of React components and props by creating cards for Fifa players.
+This React application is created as part of the Gomycode React Props Checkpoint. The application consists of an App component. This component renders a heading ("Football Players") and includes the PlayerList component. The PlayerList component is assumed to be located in the "./components/PlayerList" file and is responsible for displaying a list of football players. 
 
 ## Installation
 ### 1. Clone the Repository:
